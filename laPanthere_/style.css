@@ -6,7 +6,10 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+footer ul li {
+    font-size:16px;
+    padding: 5px;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -737,6 +740,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 15px;
 }
 
 .portfolio-thumb {
@@ -760,6 +764,7 @@ h4 {
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
+    font-size: 17px;
 }
 
 .bgc-white {
@@ -775,7 +780,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
