@@ -9,7 +9,10 @@ body {
 footer ul li {
     font-size:16px;
     padding: 5px;
-    color: white;
+}
+footer ul li a {
+    color: white !important;
+    font-weight: 500;
 }
 a,
 button {
@@ -829,7 +832,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
