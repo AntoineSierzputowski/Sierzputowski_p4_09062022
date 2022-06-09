@@ -9,6 +9,7 @@ body {
 footer ul li {
     font-size:16px;
     padding: 5px;
+    color: white;
 }
 a,
 button {
@@ -740,7 +741,8 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
-    font-size: 15px;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 .portfolio-thumb {
